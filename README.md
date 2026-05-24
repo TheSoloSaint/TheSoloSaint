@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=📡+Electronic+Engineering+Student;⚡+Embedded+Systems+Explorer;💻+C++,+Python+Developer;☕+Coffee+%2B+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=📡+Electronics+Engineering+Student;⚡+Embedded+Systems+Explorer;💻+C++,+Python+Developer;☕+Coffee+%2B+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 💻 About Me
 
-I’m an **Electronic Engineering student** passionate about embedded systems, IoT, and automation.  
+I’m an **Electronics Engineering student** passionate about embedded systems, IoT, and automation.  
 Competent in **C++ and Python**, I enjoy building practical solutions that bridge hardware and software.  
 
 - Focused on applying engineering skills to real-world African contexts  

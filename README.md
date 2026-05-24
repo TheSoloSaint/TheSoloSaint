@@ -40,7 +40,7 @@ Competent in **C++ and Python**, I enjoy building practical solutions that bridg
 
 <div align="center">
   
-  **Made with passion & lots of ☕**
+  **Made with love & gallons of ☕☕☕**
   
   <a href="https://www.x.com/Solo_Saint_">
    <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/twitter.gif" width="100" alt="X Animated Icon">

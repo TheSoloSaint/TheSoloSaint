@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=📡+Electronic+Engineering+Student;⚡+Embedded+Systems+Explorer;💻+C,+C++,+Python+Developer;☕+Coffee+%2B+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=📡+Electronic+Engineering+Student;⚡+Embedded+Systems+Explorer;💻+C++,+C,+Python+Developer;☕+Coffee+%2B+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -45,8 +45,8 @@ Competent in **C, C++ and Python**, I enjoy building practical solutions that br
   
   **Made with passion & lots of ☕**
   
-  <a href="https://discordapp.com/users/do_jun123">
-   <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="100">
+  <a href="https://x.com/Solo_Saint_">
+   <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="100">
   </a>
   
 </div>

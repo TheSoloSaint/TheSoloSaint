@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=📡+Electronic+Engineering+Student;⚡+Embedded+Systems+Explorer;💻+C++,+Python+Developer;☕+Coffee+%2B+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=100&color=FFFFFF&center=true&vCenter=true&width=700&lines=📡+Electronic+Engineering+Student;⚡+Embedded+Systems+Explorer;💻+C++,+C,+Python+Developer;☕+Coffee+%2B+Code" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@ Competent in **C, C++ and Python**, I enjoy building practical solutions that br
   **Made with passion & lots of ☕**
   
   <a href="https://x.com/Solo_Saint_">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="100" alt="X Icon">
+   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="100" alt="X Animated Icon">
   </a>
   
 </div>
